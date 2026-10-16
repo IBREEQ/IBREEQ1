@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@netlify/blobs": "^10.3.0"
+  }
+}

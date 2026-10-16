@@ -1,0 +1,2 @@
+ارفع محتويات هذا المجلد إلى Netlify. اترك Build command فارغاً وPublish directory = .
+اختياري: أضف Environment Variable باسم IBREEQ_ADMIN_CODE وقيمته .IBREEQ11. هذا الإصدار يخزن الطلبات مركزياً عبر Netlify Functions + Blobs بدلاً من localStorage.
